@@ -1,6 +1,6 @@
 ---
 ID: 2
-post_title: About
+post_title: About Us
 author: admin
 post_excerpt: ""
 layout: page
