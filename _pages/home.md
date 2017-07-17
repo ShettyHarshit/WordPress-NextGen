@@ -14,6 +14,8 @@ post_date: 2017-07-15 16:07:45
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
 
+[av_hr class='custom' height='50' shadow='shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='#000000' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue813' font='entypo-fontello' admin_preview_bg='rgb(255, 255, 255)']
+
 [av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 [av_iconlist position='left' iconlist_styling='' custom_title_size='' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='rgb(255, 255, 255)']
 [av_iconlist_item title='List Title 1' link='' linktarget='' linkelement='' icon='ue81e' font='entypo-fontello']
