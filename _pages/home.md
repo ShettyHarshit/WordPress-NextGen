@@ -46,11 +46,13 @@ List Content goes here List Content goes here List Content goes here List Con
 [/av_one_third]
 [/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-fat' custom_width='50px' custom_border_color='#ffffff' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#ffffff' icon='ue809' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
