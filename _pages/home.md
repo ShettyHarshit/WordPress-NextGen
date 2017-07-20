@@ -66,12 +66,26 @@ List Content goes here List Content goes here List Content goes here List Con
 [/av_one_third]
 [/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0'][/av_section]
+[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
 
-[av_layout_row border='' min_height_percent='' min_height='0' color='main_color' mobile='av-flex-cells' id='' av_element_hidden_in_editor='0' mobile_breaking='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-[av_cell_one_half first][/av_cell_one_half] [av_cell_one_half][/av_cell_one_half]
-[/av_layout_row]
+[av_image_hotspot src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-356056-1-300x199.jpeg' attachment='97' attachment_size='medium' animation='pop-up' hotspot_layout='numbered' hotspot_tooltip_display='' hotspot_mobile='aviaTBhotspot_mobile']
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-right' tooltip_width='av-tt-default-width' tooltip_style='main_color' link='' link_target='' hotspot_color='' custom_bg='' custom_font='' custom_pulse='' hotspot_pos='20.1,56.6']
+PC &amp; Laptop Maintenance
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-left' tooltip_width='av-tt-default-width' tooltip_style='main_color' link='' link_target='' hotspot_color='' custom_bg='' custom_font='' custom_pulse='' hotspot_pos='47.6,26.7']
+<ul class="point">
+ 	<li>Server Maintenance</li>
+</ul>
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-left' tooltip_width='av-tt-default-width' tooltip_style='main_color' link='' link_target='' hotspot_color='' custom_bg='' custom_font='' custom_pulse='' hotspot_pos='37.4,48.3']
+Software Installation
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-left' tooltip_width='av-tt-default-width' tooltip_style='main_color' link='' link_target='' hotspot_color='' custom_bg='' custom_font='' custom_pulse='' hotspot_pos='55,71.7']
+Peripherals
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-below av-tt-align-left' tooltip_width='av-tt-default-width' tooltip_style='main_color' link='' link_target='' hotspot_color='' custom_bg='' custom_font='' custom_pulse='' hotspot_pos='62.6,30']
+24X7 Contact Support
+[/av_image_spot]
+[/av_image_hotspot]
 
-[av_layout_row border='' min_height_percent='' min_height='0' color='main_color' mobile='av-flex-cells' id='' av_element_hidden_in_editor='0' mobile_breaking='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-[av_cell_one_half first][/av_cell_one_half] [av_cell_one_half][/av_cell_one_half]
-[/av_layout_row]
+[/av_section]
