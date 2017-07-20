@@ -66,7 +66,7 @@ List Content goes here List Content goes here List Content goes here List Con
 [/av_one_third]
 [/av_section]
 
-[av_section min_height='100' min_height_px='500px' padding='small' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' scroll_down='aviaTBscroll_down' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='10px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_image_hotspot src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-356056-1-300x199.jpeg' attachment='97' attachment_size='medium' animation='pop-up' hotspot_layout='numbered' hotspot_tooltip_display='' hotspot_mobile='aviaTBhotspot_mobile']
 [av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-right' tooltip_width='av-tt-default-width' tooltip_style='main_color' link='' link_target='' hotspot_color='' custom_bg='' custom_font='' custom_pulse='' hotspot_pos='20.1,56.6']
@@ -87,5 +87,7 @@ Peripherals
 24X7 Contact Support
 [/av_image_spot]
 [/av_image_hotspot]
+
+[/av_one_full][av_section min_height='100' min_height_px='500px' padding='small' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' scroll_down='aviaTBscroll_down' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
 [/av_section]
