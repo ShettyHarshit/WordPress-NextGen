@@ -56,11 +56,11 @@ List Content goes here List Content goes here List Content goes here List Con
 
 [av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue80a' font='entypo-fontello' style='border' caption='Laptop' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue80a' font='entypo-fontello' style='border' caption='PC &amp; Laptop Maintenance' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue80a' font='entypo-fontello' style='border' caption='Laptop' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue868' font='entypo-fontello' style='border' caption='Anti-virus, Anti-spam &amp; Anti Spyware' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
