@@ -21,7 +21,7 @@ post_date: 2017-07-15 16:07:45
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#0a0a0a' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#ffffff' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
 [av_textblock size='40' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h1 style="text-align: center;">CORE SERVICES</h1>
+<p style="text-align: center;">CORE SERVICES</p>
 [/av_textblock]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='60px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#ab0068' icon='ue8bb' font='entypo-fontello' admin_preview_bg='']
@@ -32,31 +32,29 @@ post_date: 2017-07-15 16:07:45
 
 [av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue8ab' font='entypo-fontello' title='COMPUTER SERVICES &amp; REPAIRS' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
 [/av_icon_box]
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue856' font='entypo-fontello' title='Server Maintenance ' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
 [/av_icon_box]
 
 [/av_one_half][av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue8bc' font='entypo-fontello' title='Backup &amp; Disaster Recovery' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
 [/av_icon_box]
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue805' font='entypo-fontello' title='EMAIL MANAGEMENT' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
 [/av_icon_box]
 
-[/av_one_half][av_button label='Click me' link='' link_target='' size='small' position='center' icon_select='yes' icon_hover='' icon='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-
-[/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_one_half][/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
