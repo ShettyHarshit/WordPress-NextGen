@@ -20,7 +20,9 @@ post_date: 2017-07-15 16:07:45
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#0a0a0a' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#ffffff' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
-[av_heading tag='h1' padding='15' heading='OUR SERVICE SPECTRUM' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#757575' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
+[av_textblock size='40' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<p style="text-align: center;">CORE SERVICES</p>
+[/av_textblock]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='60px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#ab0068' icon='ue8bb' font='entypo-fontello' admin_preview_bg='']
 
