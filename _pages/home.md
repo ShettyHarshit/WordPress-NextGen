@@ -30,35 +30,27 @@ post_date: 2017-07-15 16:07:45
 
 [av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_iconlist position='left' iconlist_styling='av-iconlist-small' custom_title_size='18' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-[av_iconlist_item title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' icon='ue839' font='entypo-fontello']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
-[/av_iconlist_item]
-[/av_iconlist]
+[/av_icon_box]
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_iconlist position='left' iconlist_styling='av-iconlist-small' custom_title_size='18' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-[av_iconlist_item title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' icon='ue839' font='entypo-fontello']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
-[/av_iconlist_item]
-[/av_iconlist]
+[/av_icon_box]
 
 [/av_one_half][av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_iconlist position='left' iconlist_styling='av-iconlist-small' custom_title_size='18' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-[av_iconlist_item title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' icon='ue839' font='entypo-fontello']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
-[/av_iconlist_item]
-[/av_iconlist]
+[/av_icon_box]
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_iconlist position='left' iconlist_styling='av-iconlist-small' custom_title_size='18' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-[av_iconlist_item title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' icon='ue839' font='entypo-fontello']
+[av_icon_box position='left' icon_style='' boxed='' icon='ue852' font='entypo-fontello' title='RESTRUCTURE WITH PURPOSE' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
-[/av_iconlist_item]
-[/av_iconlist]
+[/av_icon_box]
 
 [/av_one_half][av_button label='Click me' link='' link_target='' size='small' position='center' icon_select='yes' icon_hover='' icon='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
