@@ -18,9 +18,9 @@ post_date: 2017-07-15 16:07:45
 [/av_one_third]
 [/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#0a0a0a' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#ab0068' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#0a0a0a' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#ffffff' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
-[av_heading heading='OUR SERVICE SPECTRUM' tag='h3' style='blockquote modern-quote modern-centered' size='' subheading_active='' subheading_size='15' padding='15' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading heading='OUR SERVICE SPECTRUM' tag='h3' style='blockquote modern-quote modern-centered' size='' subheading_active='' subheading_size='15' padding='15' color='custom-color-heading' custom_font='#000000' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
 [av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
