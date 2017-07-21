@@ -8,11 +8,6 @@ permalink: http://nextgenithub.com/about/
 published: true
 post_date: 2017-07-12 04:15:29
 ---
-[av_fullscreen size='extra_large' image_attachment='' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
-[av_fullscreen_slide id='85'][/av_fullscreen_slide]
-[av_fullscreen_slide id='97'][/av_fullscreen_slide]
-[/av_fullscreen]
-
 [av_textblock size='' font_color='' color='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 <strong>NG</strong> started in 1993 with a vision to provide customers with the technology support they need to compete and thrive in the New Economy. Through our core services, we help established businesses adapt their IT infrastructures to the changing requirements of the rapidly evolving digital marketplace.
 
