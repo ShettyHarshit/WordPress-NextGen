@@ -24,8 +24,8 @@ post_date: 2017-07-15 16:07:45
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='60px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#ab0068' icon='ue8bb' font='entypo-fontello' admin_preview_bg='']
 
-[av_textblock size='18' font_color='custom' color='#3d3d3d' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<strong>THE LPS GOAL IS TO PROVIDE YOU PRAGMATIC, REALISTIC SOLUTIONS THAT ALIGN YOUR PEOPLE WITH YOUR BUSINESS OBJECTIVES FOR MAXIMUM IMPACT.</strong>
+[av_textblock size='21' font_color='custom' color='#3d3d3d' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+THE LPS GOAL IS TO PROVIDE YOU PRAGMATIC, REALISTIC SOLUTIONS THAT ALIGN YOUR PEOPLE WITH YOUR BUSINESS OBJECTIVES FOR MAXIMUM IMPACT.
 [/av_textblock]
 
 [av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
