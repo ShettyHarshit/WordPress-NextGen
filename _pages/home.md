@@ -47,7 +47,8 @@ Click here to add your own text
 [/av_one_half][av_one_half first min_height='' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='1' border_color='#000000' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_slideshow size='gallery' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
-[av_slide id='96'][/av_slide]
+[av_slide id='206'][/av_slide]
+
 [/av_slideshow]
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -143,11 +144,3 @@ The right operating model paired with the right capabilities has a material impa
 
 [/av_one_third]
 [/av_section]
-
-[av_layerslider]
-
-[av_slideshow_accordion slide_type='image-based' link='category' items='5' offset='0' size='featured' autoplay='false' interval='5' title='true' excerpt='' accordion_align='true' custom_title_size='' custom_excerpt_size='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slideshow_accordion]
-
-[av_image_hotspot src='http://nextgenithub.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/placeholder-full.jpg' animation='no-animation' hotspot_layout='numbered' hotspot_tooltip_display='' hotspot_mobile='true' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide=''][/av_image_hotspot]
-
-[av_image src='http://nextgenithub.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/placeholder.jpg' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide=''][/av_image]
