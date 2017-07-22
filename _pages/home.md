@@ -24,9 +24,31 @@ post_date: 2017-07-15 16:07:45
 <h1 align="center">WHY NEXT GEN IT HUB?</h1>
 [/av_textblock]
 
-[av_one_half first min_height='' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='1' border_color='#000000' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/arm-1867759_960_720-300x200.jpg' attachment='96' attachment_size='medium' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+[av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Click here to add your own text
+[/av_icon_box]
+
+[av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Click here to add your own text
+[/av_icon_box]
+
+[av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Click here to add your own text
+[/av_icon_box]
+
+[/av_one_half][av_one_half min_height='' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='#000000' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_slideshow size='gallery' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
+[av_slide id='96'][/av_slide]
+[/av_slideshow]
+
+[/av_one_half][av_one_half first min_height='' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='1' border_color='#000000' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_slideshow size='gallery' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
+[av_slide id='96'][/av_slide]
+[/av_slideshow]
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
@@ -38,22 +60,9 @@ Click here to add your own text
 Click here to add your own text
 [/av_icon_box]
 
-[/av_one_half][av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
 [av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Click here to add your own text
 [/av_icon_box]
-
-[av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Click here to add your own text
-[/av_icon_box]
-
-[/av_one_half][av_one_half min_height='' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='1' border_color='#000000' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[av_slideshow size='gallery' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
-[av_slide id='96'][/av_slide]
-
-[/av_slideshow]
 
 [/av_one_half][/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
