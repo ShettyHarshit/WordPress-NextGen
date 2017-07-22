@@ -24,7 +24,14 @@ post_date: 2017-07-15 16:07:45
 <h1 align="center">WHY NEXT GEN IT HUB?</h1>
 [/av_textblock]
 
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_two_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_slideshow size='gallery' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
+[av_slide id='85'][/av_slide]
+[av_slide id='96'][/av_slide]
+[/av_slideshow]
+
+[/av_two_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_iconlist position='left' iconlist_styling='av-iconlist-small' custom_title_size='' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 [av_iconlist_item title='Highly Experienced Support Team' link='' linktarget='' linkelement='' icon='ue80b' font='entypo-fontello'][/av_iconlist_item]
@@ -42,13 +49,7 @@ List Content goes here
 [/av_iconlist_item]
 [/av_iconlist]
 
-[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[/av_one_third][/av_section][av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[/av_one_third][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_one_third][/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
@@ -127,3 +128,7 @@ The right operating model paired with the right capabilities has a material impa
 
 [/av_one_third]
 [/av_section]
+
+[av_layerslider]
+
+[av_slideshow_accordion slide_type='image-based' link='category' items='5' offset='0' size='featured' autoplay='false' interval='5' title='true' excerpt='' accordion_align='true' custom_title_size='' custom_excerpt_size='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slideshow_accordion]
