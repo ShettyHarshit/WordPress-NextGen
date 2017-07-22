@@ -26,9 +26,9 @@ post_date: 2017-07-15 16:07:45
 
 [av_two_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_slideshow size='gallery' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
-[av_slide id='85'][/av_slide]
-[av_slide id='96'][/av_slide]
+[av_slideshow size='magazine' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
+[av_slide slide_type='image' id='85' video='http://' mobile_image='' video_ratio='16:9' title='' link_apply='' link='lightbox' link_target='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slide]
+[av_slide slide_type='image' id='96' video='http://' mobile_image='' video_ratio='16:9' title='' link_apply='' link='lightbox' link_target='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slide]
 [/av_slideshow]
 
 [/av_two_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
