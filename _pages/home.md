@@ -22,8 +22,9 @@ post_date: 2017-07-15 16:07:45
 
 [av_two_third first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_slideshow size='featured' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
-[av_slide id='85'][/av_slide]
+[av_slideshow size='large' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
+[av_slide id='85' slide_type='' video='http://' mobile_image='' video_ratio='16:9' video_controls='' video_mute='' video_loop='' video_autoplay='' title='' link_apply='' link='' link_target='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slide]
+
 [/av_slideshow]
 
 [/av_two_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
