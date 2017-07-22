@@ -27,15 +27,11 @@ post_date: 2017-07-15 16:07:45
 [av_one_half first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in' mobile_breaking='' mobile_display='']
 
 [av_icon_box position='top' icon_style='' boxed='' icon='ue8aa' font='entypo-fontello' title='Always available support' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='#ab0068' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Our product range consists right from a low cost computers to an expensive high availability servers.
+Our product range consists right from a low cost computers to an expensive high availability servers. Our product range consists right from a low cost computers to an expensive high availability servers.
 [/av_icon_box]
 
 [av_icon_box position='top' icon_style='' boxed='' icon='ue812' font='entypo-fontello' title='Complete IT Services' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='#ab0068' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Our product range consists right from a low cost computers to an expensive high availability servers.
-[/av_icon_box]
-
-[av_icon_box position='top' icon_style='' boxed='' icon='ue80b' font='entypo-fontello' title='Experienced Support Team' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='#ab0068' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Our product range consists right from a low cost computers to an expensive high availability servers.
+Our product range consists right from a low cost computers to an expensive high availability servers. Our product range consists right from a low cost computers to an expensive high availability servers.
 [/av_icon_box]
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='av-align-middle' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='#000000' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
