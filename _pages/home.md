@@ -24,32 +24,25 @@ post_date: 2017-07-15 16:07:45
 <h1 align="center">WHY NEXT GEN IT HUB?</h1>
 [/av_textblock]
 
-[av_two_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_slideshow size='magazine' animation='slide' autoplay='false' interval='5' control_layout='av-control-default']
-[av_slide slide_type='image' id='85' video='http://' mobile_image='' video_ratio='16:9' title='' link_apply='' link='lightbox' link_target='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slide]
-[av_slide slide_type='image' id='96' video='http://' mobile_image='' video_ratio='16:9' title='' link_apply='' link='lightbox' link_target='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slide]
-[/av_slideshow]
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/arm-1867759_960_720-300x200.jpg' attachment='96' attachment_size='medium' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[/av_two_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_iconlist position='left' iconlist_styling='av-iconlist-small' custom_title_size='' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-[av_iconlist_item title='Highly Experienced Support Team' link='' linktarget='' linkelement='' icon='ue80b' font='entypo-fontello'][/av_iconlist_item]
-[av_iconlist_item title='List Title 2' icon='25' content='Enter content here' link='' linktarget='no' linkelement='']
-List Content goes here
-[/av_iconlist_item]
-[av_iconlist_item title='List Title 3' icon='64' content='Enter content here' link='' linktarget='no' linkelement='']
-List Content goes here
-[/av_iconlist_item]
-[av_iconlist_item title='List Title 3' icon='64' content='Enter content here' link='' linktarget='no' linkelement='']
-List Content goes here
-[/av_iconlist_item]
-[av_iconlist_item title='List Title 3' icon='64' content='Enter content here' link='' linktarget='no' linkelement='']
-List Content goes here
-[/av_iconlist_item]
-[/av_iconlist]
+[av_icon_box position='top' icon_style='' boxed='av-no-box' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Click here to add your own text
+[/av_icon_box]
 
-[/av_one_third][/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_icon_box position='top' icon_style='' boxed='av-no-box' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Click here to add your own text
+[/av_icon_box]
+
+[av_icon_box position='top' icon_style='' boxed='av-no-box' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Click here to add your own text
+[/av_icon_box]
+
+[/av_one_half][/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='https://www.expertsolution.in/wp-content/uploads/2016/08/drinkingcoffee-wide1.webm' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
