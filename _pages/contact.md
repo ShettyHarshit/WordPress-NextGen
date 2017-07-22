@@ -11,7 +11,7 @@ post_date: 2017-07-17 15:40:10
 [av_two_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_google_map height='400px' zoom='16' saturation='' hue='' zoom_control='aviaTBzoom_control' maptype_control='' maptype_id='']
-[av_gmap_location address='' city='Mumbai' country='India' long='' lat='' marker='' imagesize='40' tooltip_display=''][/av_gmap_location]
+[av_gmap_location address='Kandivali' city='Mumbai' country='India' long='19.0760° N' lat=' 72.8777° E' marker='' imagesize='40'][/av_gmap_location]
 
 [/av_google_map]
 
