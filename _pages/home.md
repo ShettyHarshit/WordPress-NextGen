@@ -34,7 +34,7 @@ post_date: 2017-07-15 16:07:45
 Click here to add your own text
 [/av_icon_box]
 
-[av_icon_box position='top' icon_style='' boxed='av-no-box' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='IconBox Title' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Click here to add your own text
 [/av_icon_box]
 
