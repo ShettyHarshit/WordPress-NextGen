@@ -8,11 +8,4 @@ permalink: http://nextgenithub.com/contact/
 published: true
 post_date: 2017-07-17 15:40:10
 ---
-[av_two_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[av_google_map height='400px' zoom='16' saturation='' hue='' zoom_control='aviaTBzoom_control' maptype_control='' maptype_id='']
-[av_gmap_location address='' city='Mumbai' country='India' long='' lat='' marker='' imagesize='40'][/av_gmap_location]
-
-[/av_google_map]
-
-[/av_two_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_third]
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-300x200.jpg' attachment='227' attachment_size='medium' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
