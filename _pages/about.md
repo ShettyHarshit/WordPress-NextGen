@@ -8,7 +8,7 @@ permalink: http://nextgenithub.com/about/
 published: true
 post_date: 2017-07-12 04:15:29
 ---
-[av_textblock size='' font_color='' color='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <strong>NG</strong> started in 1993 with a vision to provide customers with the technology support they need to compete and thrive in the New Economy. Through our core services, we help established businesses adapt their IT infrastructures to the changing requirements of the rapidly evolving digital marketplace.
 
 <strong>Till date NG has served 1000+ customers</strong>. These customers include a diverse group of corporations with complex computing and networking requirements. Unlike most technology support providers, service is RCPL’s only business. We have the ability to offer clients a customized, single-source solution for all their technology products and support requirements.
