@@ -30,7 +30,6 @@ post_date: 2017-07-17 15:40:10
 t: <span class="skype_c2c_print_container">022-40106817</span>
 e: info@nextgenithub.com
 w: www.nextgenithub.com
-
 We endeavour to answer all queries within 1 – 2 business days.
 [/av_icon_box]
 
