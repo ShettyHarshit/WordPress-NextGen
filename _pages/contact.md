@@ -28,10 +28,10 @@ post_date: 2017-07-17 15:40:10
 
 [av_icon_box position='left' icon_style='' boxed='' icon='1' font='entypo-fontello' title='Contact' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#ab0068' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 t: <span class="skype_c2c_print_container">022-40106817</span>
-
 e: info@nextgenithub.com
-
 w: www.nextgenithub.com
+
+We endeavour to answer all queries within 1 – 2 business days.
 [/av_icon_box]
 
 [av_button label='Login' link='manually,http://nextgenithub.com/login-2/' link_target='' size='x-large' position='center' icon_select='yes' icon='ue80a' font='entypo-fontello' color='theme-color' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
