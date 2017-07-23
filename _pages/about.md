@@ -11,15 +11,11 @@ post_date: 2017-07-12 04:15:29
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-300x150.jpg' attachment='262' attachment_size='medium' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<strong>NG</strong> started in 1993 with a vision to provide customers with the technology support they need to compete and thrive in the New Economy. Through our core services, we help established businesses adapt their IT infrastructures to the changing requirements of the rapidly evolving digital marketplace.
+NextGen IT Hub is a company based in Mumbai. We specialize in the field of selling Computers, Laptops, Printers and Networking Products from last decade along with Smart Automation, Intercom &amp; CCTV products to provide complete IT Solutions to customers enabling them to automate their businesses. We are a well-established name among the major suppliers and dealers of reputed branded hardware and software companies.
 
-<strong>Till date NG has served 1000+ customers</strong>. These customers include a diverse group of corporations with complex computing and networking requirements. Unlike most technology support providers, service is RCPL’s only business. We have the ability to offer clients a customized, single-source solution for all their technology products and support requirements.
+Our specialty is our traditional services such as CCTV &amp; Security System, Computer Repair, Laptop Repairs, Software Support, Hardware Support, Upgrades, Remote Support, Onsite Support, Wired and Wireless Network Setup, Broadband Internet Installation etc. to Small Businesses and Home Users in complete All City area.
 
-<span class="txt6">Company History</span>
-
-<strong>Since last 18 years</strong>, NG has operated ahead of the technology curve, meeting a wide range of customer support needs. RCPL started as only small-scale computer system supplying company and has expanded operations to include <strong>Networking, Annual Maintenance Contracts, Remote Support, Security Solutions, Thin Client Implementation, Asset Management services</strong> etc.
-
-Today RCPL is poised to meet the diverse technical support needs of customers in the New Economy.
+With the help of a dedicated team and fully qualified professionals and designers, we are also able to offer specialist services like Web Design, Domain Registration, Web Hosting, Content Management System, E-commerce Shops, Search Engine Optimization services to Small and Medium Businesses.
 [/av_textblock]
 
 [/av_section]
