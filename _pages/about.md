@@ -14,7 +14,8 @@ post_date: 2017-07-12 04:15:29
 [/av_fullscreen]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-487785-1-1500x630.jpeg' attachment='309' attachment_size='featured_large' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_one_third first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/NextGenITHubLLP-300x150-300x150.png' attachment='32' attachment_size='medium' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
 
@@ -22,7 +23,7 @@ post_date: 2017-07-12 04:15:29
 
 [av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
-[/av_one_third][av_two_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='18' font_color='custom' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 NextGen IT Hub is a company based in Mumbai. We specialize in the field of selling Computers, Laptops, Printers and Networking Products from last decade along with Smart Automation, Intercom &amp; CCTV products to provide complete IT Solutions to customers enabling them to automate their businesses. We are a well-established name among the major suppliers and dealers of reputed branded hardware and software companies.
@@ -32,10 +33,7 @@ Our specialty is our traditional services such as CCTV &amp; Security System, Co
 With the help of a dedicated team and fully qualified professionals and designers, we are also able to offer specialist services like Web Design, Domain Registration, Web Hosting, Content Management System, E-commerce Shops, Search Engine Optimization services to Small and Medium Businesses.
 [/av_textblock]
 
-[/av_two_third]
-[/av_section]
-
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-1500x630.jpg' attachment='262' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_two_third][/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-1500x630.jpg' attachment='262' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='OUR VISION' link='' linktarget='' linkelement='' font_color='custom' custom_title='' custom_content='' color='custom' custom_bg='#ab0068' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
