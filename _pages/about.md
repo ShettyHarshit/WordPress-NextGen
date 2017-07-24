@@ -14,9 +14,14 @@ post_date: 2017-07-12 04:15:29
 [/av_fullscreen]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
+
 [av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/NextGenITHubLLP-300x150-300x150.png' attachment='32' attachment_size='medium' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
+
+[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+
+[av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='small' position='center' icon_select='yes' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
 [/av_one_third][av_two_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
@@ -28,10 +33,7 @@ Our specialty is our traditional services such as CCTV &amp; Security System, Co
 With the help of a dedicated team and fully qualified professionals and designers, we are also able to offer specialist services like Web Design, Domain Registration, Web Hosting, Content Management System, E-commerce Shops, Search Engine Optimization services to Small and Medium Businesses.
 [/av_textblock]
 
-[/av_two_third]
-[/av_section]
-
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-300x150.jpg' attachment='262' attachment_size='medium' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_two_third][/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-300x150.jpg' attachment='262' attachment_size='medium' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='OUR VISION' link='' linktarget='' linkelement='' font_color='custom' custom_title='' custom_content='' color='custom' custom_bg='#ab0068' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
@@ -104,7 +106,6 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/teamwork-1400x630.jpg' attachment='302' attachment_size='featured_large' attach='scroll' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_three_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_three_fifth][av_two_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -127,4 +128,5 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 [av_iconlist_item title='We listen to our client.' link='' linktarget='' linkelement='' icon='ue82b' font='entypo-fontello'][/av_iconlist_item]
 [/av_iconlist]
 
-[/av_two_fifth][/av_section]
+[/av_two_fifth]
+[/av_section]
