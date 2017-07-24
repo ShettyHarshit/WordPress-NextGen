@@ -103,9 +103,33 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 [/av_one_fifth]
 [/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
+[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/teamwork-300x193.jpg' attachment='302' attachment_size='medium' attach='scroll' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
-[av_one_half first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-300x150.jpg' attachment='262' attachment_size='medium' background_position='top left' background_repeat='stretch' animation='' mobile_breaking='' mobile_display='']
+[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h2>KEEPING OUR CLIENTS HAPPY</h2>
+[/av_textblock]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<strong>Keeping our clients and potential customers happy is the most important aspect of business.</strong>
+
+<strong>Reasons for our Happy Clients :-</strong>
+[/av_textblock]
+
+[av_iconlist position='left' iconlist_styling='av-iconlist-small' custom_title_size='18' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_iconlist_item title='We Include planning time in our cost and time estimates.' link='' linktarget='' linkelement='' icon='ue862' font='entypo-fontello'][/av_iconlist_item]
+[av_iconlist_item title='We Never over-promise.' link='' linktarget='' linkelement='' icon='ue815' font='entypo-fontello'][/av_iconlist_item]
+[av_iconlist_item title='We stick to the deadline.' link='' linktarget='' linkelement='' icon='ue863' font='entypo-fontello'][/av_iconlist_item]
+[av_iconlist_item title='We ensure that we offer the services what you need.' link='' linktarget='' linkelement='' icon='ue812' font='entypo-fontello'][/av_iconlist_item]
+[av_iconlist_item title='We listen to our client.' link='' linktarget='' linkelement='' icon='ue82b' font='entypo-fontello'][/av_iconlist_item]
+[/av_iconlist]
+
+[/av_one_half][/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/teamwork-300x193.jpg' attachment='302' attachment_size='medium' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
+[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
