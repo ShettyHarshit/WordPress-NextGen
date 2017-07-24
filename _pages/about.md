@@ -53,7 +53,7 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 [/av_one_third]
 [/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-300x150.jpg' attachment='262' attachment_size='medium' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-1-300x200.jpg' attachment='298' attachment_size='medium' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
