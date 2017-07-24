@@ -25,7 +25,7 @@ post_date: 2017-07-12 04:15:29
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/NextGenITHubLLP-300x150-300x150.png' attachment='32' attachment_size='medium' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
 
-[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+[av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='0px' custom_margin_bottom='0px' icon_select='no' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
