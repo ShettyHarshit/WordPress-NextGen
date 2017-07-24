@@ -21,11 +21,11 @@ post_date: 2017-07-12 04:15:29
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
-[av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='small' position='center' icon_select='yes' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
+[av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
 [/av_one_third][av_two_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_textblock size='' font_color='custom' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_textblock size='18' font_color='custom' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 NextGen IT Hub is a company based in Mumbai. We specialize in the field of selling Computers, Laptops, Printers and Networking Products from last decade along with Smart Automation, Intercom &amp; CCTV products to provide complete IT Solutions to customers enabling them to automate their businesses. We are a well-established name among the major suppliers and dealers of reputed branded hardware and software companies.
 
 Our specialty is our traditional services such as CCTV &amp; Security System, Computer Repair, Laptop Repairs, Software Support, Hardware Support, Upgrades, Remote Support, Onsite Support, Wired and Wireless Network Setup, Broadband Internet Installation etc. to Small Businesses and Home Users in complete All City area.
