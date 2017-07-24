@@ -17,11 +17,11 @@ post_date: 2017-07-12 04:15:29
 
 [av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='35px,5px,5px,5px' border='' border_color='' radius='5px,5px,0px,0px' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_heading tag='h2' padding='10' heading='About Next Gen IT Hub' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
+[av_heading heading='About Next Gen IT Hub' tag='h1' style='blockquote modern-quote modern-centered' size='' subheading_active='' subheading_size='15' padding='0' color='custom-color-heading' custom_font='#000000' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
-[/av_one_full][av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='15px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_full][av_one_third first min_height='av-equal-height-column' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='15px' padding_sync='true' border='' border_color='' radius='0px,0px,0px,5px' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/NextGenITHubLLP-300x150-300x150.png' attachment='32' attachment_size='medium' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
 
@@ -29,7 +29,7 @@ post_date: 2017-07-12 04:15:29
 
 [av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='15px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='15px,35px,15px,15px' border='' border_color='' radius='0px,0px,5px,0px' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='16' font_color='custom' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 NextGen IT Hub is a company based in Mumbai. We specialize in the field of selling Computers, Laptops, Printers and Networking Products from last decade along with Smart Automation, Intercom &amp; CCTV products to provide complete IT Solutions to customers enabling them to automate their businesses. We are a well-established name among the major suppliers and dealers of reputed branded hardware and software companies.
