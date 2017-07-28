@@ -8,9 +8,12 @@ permalink: http://nextgenithub.com/services/
 published: true
 post_date: 2017-07-14 13:19:39
 ---
-[av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-We provide various kind of <b>computer services</b> right from a simple non-comprehensive maintenance contract to a complex network and security implementation:
-[/av_textblock]
+[av_fullscreen size='extra_large' image_attachment='' animation='slide' autoplay='true' interval='5' control_layout='av-control-default' perma_caption='aviaTBperma_caption']
+[av_fullscreen_slide slide_type='image' id='354' position='top left' video='http://' mobile_image='' video_cover='' title='OUR SERVICES' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
+We provide various kind of computer services right from a simple non-comprehensive maintenance contract to a complex network and security implementation
+[/av_fullscreen_slide]
+[av_fullscreen_slide id='353'][/av_fullscreen_slide]
+[/av_fullscreen]
 
 [av_iconlist position='left' iconlist_styling='' custom_title_size='' custom_content_size='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 [av_iconlist_item title='Computer Service &amp; Repairs (AMC)' link='' linktarget='' linkelement='' icon='ue8ab' font='entypo-fontello'][/av_iconlist_item]
