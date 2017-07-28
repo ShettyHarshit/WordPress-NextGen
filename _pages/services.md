@@ -25,9 +25,57 @@ We provide various kind of computer services right from a simple non-comprehensi
 
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/blogging-336376_1920-300x300.jpg' attachment='361' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+
+[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Better maintain your computers and network.
+
+Restrict use of unnecessary internet surfing, thus saving cost of internet usage.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/blogging-336376_1920-300x300.jpg' attachment='361' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+
+[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Better maintain your computers and network.
+
+Restrict use of unnecessary internet surfing, thus saving cost of internet usage.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/blogging-336376_1920-300x300.jpg' attachment='361' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+
+[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Better maintain your computers and network.
+
+Restrict use of unnecessary internet surfing, thus saving cost of internet usage.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/blogging-336376_1920-300x300.jpg' attachment='361' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+
+[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Better maintain your computers and network.
+
+Restrict use of unnecessary internet surfing, thus saving cost of internet usage.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/apple-606761_1920-180x180.jpg' attachment='359' attachment_size='square' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Computer Service &amp; Repairs (AMC)' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Better maintain your computers and network.
@@ -39,7 +87,7 @@ Restrict use of unnecessary internet surfing, thus saving cost of internet usage
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/apple-606761_1920-180x180.jpg' attachment='359' attachment_size='square' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Computer Service &amp; Repairs (AMC)' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Better maintain your computers and network.
@@ -51,19 +99,7 @@ Restrict use of unnecessary internet surfing, thus saving cost of internet usage
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/apple-606761_1920-180x180.jpg' attachment='359' attachment_size='square' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
-
-[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Better maintain your computers and network.
-
-Restrict use of unnecessary internet surfing, thus saving cost of internet usage.
-[/av_textblock]
-
-[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/apple-606761_1920-180x180.jpg' attachment='359' attachment_size='square' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
-
-[av_heading heading='Computer Service &amp; Repairs (AMC)' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Computer Service &amp; Repairs (AMC)' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Better maintain your computers and network.
