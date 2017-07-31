@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://nextgenithub.com/server-maintenance/
+  http://nextgenithub.com/services/server-maintenance/
 published: true
 post_date: 2017-07-31 14:50:27
 ---
