@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2017-07-31 13:59:26
 ---
-[av_heading tag='h3' padding='10' heading='COMPUTER SERVICES &amp; REPAIRS' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
+[av_heading heading='COMPUTER SERVICES &amp; REPAIRS' tag='h1' style='' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
-[av_one_half first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='10px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_one_half first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='20px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-48606-1030x687.jpeg' attachment='363' attachment_size='large' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
