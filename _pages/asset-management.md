@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://nextgenithub.com/asset-management/
+  http://nextgenithub.com/services/asset-management/
 published: true
 post_date: 2017-07-31 15:49:09
 ---
