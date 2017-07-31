@@ -16,6 +16,7 @@ We provide various kind of computer services right from a simple non-comprehensi
 [/av_fullscreen]
 
 [av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-48606.jpeg' attachment='363' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h2 style="text-align: center;">Our Services include</h2>
 [/av_textblock]
@@ -72,26 +73,23 @@ We provide various kind of computer services right from a simple non-comprehensi
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/group-1824145_640-300x300.png' attachment='384' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Leased Lines' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Leased Lines' color='custom-color-heading' style='' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/store-1103556_640-300x300.png' attachment='385' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Asset Management' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Asset Management' color='custom-color-heading' style='' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/cpu-2103856_640-300x300.png' attachment='371' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Thin Client' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Thin Client' color='custom-color-heading' style='' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
-[/av_one_fourth]
-[/av_section]
+[/av_one_fourth][av_button label='Call Us On: 022-40106817' link='manually,http://' link_target='' size='large' position='center' icon_select='yes' icon='ue854' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
-[av_button label='Call Us On: 022-40106817' link='manually,http://' link_target='' size='large' position='center' icon_select='yes' icon='ue854' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
-
-[av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[/av_section][av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <span class="txt5">By providing the above computer services we can help you to:</span>
 <ul class="bullet2">
  	<li><b>Computer Maintenance Services (AMC): </b>Better maintain your computers and network. Restrict use of unnecessary internet surfing, thus saving cost of internet usage.</li>
