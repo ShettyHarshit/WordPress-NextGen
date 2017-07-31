@@ -42,7 +42,7 @@ post_date: 2017-07-31 14:50:27
 
 [/av_one_half][av_one_half min_height='av-equal-height-column' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='40px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/it-838377_1280-298x300.jpg' attachment='417' attachment_size='medium' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-442150-1-1030x686.jpeg' attachment='445' attachment_size='large' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 We at <strong>NG</strong> understand the necessity of keeping all your servers up and running with maximum performance.
