@@ -89,6 +89,8 @@ We provide various kind of computer services right from a simple non-comprehensi
 [/av_one_fourth]
 [/av_section]
 
+[av_button label='Call Us On: 022-40106817' link='manually,http://' link_target='' size='large' position='center' icon_select='yes' icon='ue854' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
+
 [av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <span class="txt5">By providing the above computer services we can help you to:</span>
 <ul class="bullet2">
