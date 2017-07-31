@@ -16,7 +16,6 @@ We provide various kind of computer services right from a simple non-comprehensi
 [/av_fullscreen]
 
 [av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-48606.jpeg' attachment='363' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h2 style="text-align: center;">Our Services include</h2>
 [/av_textblock]
@@ -87,26 +86,21 @@ We provide various kind of computer services right from a simple non-comprehensi
 
 [av_heading heading='Thin Client' tag='h3' style='' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
-[/av_one_fourth][/av_section][av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[/av_one_fourth]
+[/av_section]
+
+[av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <span class="txt5">By providing the above computer services we can help you to:</span>
 <ul class="bullet2">
- 	<li><b>Computer Maintenance Services (AMC): </b>Better maintain your computers and network.</li>
- 	<li>Restrict use of unnecessary internet surfing, thus saving cost of internet usage.</li>
+ 	<li><b>Computer Maintenance Services (AMC): </b>Better maintain your computers and network. Restrict use of unnecessary internet surfing, thus saving cost of internet usage.</li>
  	<li><b>Server Setup &amp; Maintenance: </b>Implementing data access policies for users. No users can view/modify/delete any files for which they do not have rights to access.</li>
  	<li><b>Backup Solutions: </b>Preserve your valuable data and restore it in case of system crashes.</li>
  	<li><b>Anti-Virus &amp; Security Solutions: </b>Protect your systems from dangerous spywares which can steal your password or Credit card details without your knowledge.</li>
  	<li><b>Email Management: </b>Give personalized emails to all employees and control which employee is communicating with which client and get updated of every email sent or received by them.</li>
  	<li><b>Network Maintenance: </b>Increase the secured network accessibility of laptop users.</li>
- 	<li><b>Server Setup &amp; Maintenance: </b>Protect accidental deletion of files and folders.</li>
- 	<li><b>Asset Management: </b>Control number of prints taken by individual users.</li>
- 	<li><b>Asset Management: </b>Manage your IT infrastructure Details.</li>
- 	<li><b>Asset Management: </b>Monitor what your employees are working: You can view the individual PCs just by sitting on your desk and monitor what each employees is doing on their computer.</li>
- 	<li><b>Asset Management: </b>Restrict access to software’s which are not required for work i.e Games, Chat, MP3 Players etc.</li>
- 	<li><b>Server Setup &amp; Maintenance: </b>Prevent Local Storing of Files.</li>
- 	<li><b>Server Setup &amp; Maintenance: </b>Users can use any PC. They will see their own desktop and files on any PC.</li>
- 	<li><b>Server Setup &amp; Maintenance: </b>Restrict the Access of USB based on individual rights.</li>
- 	<li>Access your office PC from anywhere in the world.</li>
- 	<li><b>Asset Management: </b>Data Leak Prevention.</li>
- 	<li>Thin Client Environment <strong>(PCs can be used without installing any software’s on it. In this technology the PCs will not have any Hard Disk in it.)</strong></li>
+ 	<li><b>Server Setup &amp; Maintenance: </b>Protect accidental deletion of files and folders.  Prevent Local Storing of Files. Users can use any PC. They will see their own desktop and files on any PC. Restrict the Access of USB based on individual rights.</li>
+ 	<li><strong>Leased Lines</strong>: Access your office PC from anywhere in the world.</li>
+ 	<li><b>Asset Management: </b>Data Leak Prevention. Restrict access to software’s which are not required for work i.e Games, Chat, MP3 Players etc. Control number of prints taken by individual users. Manage your IT infrastructure Details. Monitor what your employees are working: You can view the individual PCs just by sitting on your desk and monitor what each employees is doing on their computer.</li>
+ 	<li><strong>Thin Client Environment:</strong> PCs can be used without installing any software’s on it. In this technology the PCs will not have any Hard Disk in it.</li>
 </ul>
 [/av_textblock]
