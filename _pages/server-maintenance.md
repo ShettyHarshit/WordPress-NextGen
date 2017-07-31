@@ -15,7 +15,19 @@ post_date: 2017-07-31 14:50:27
 
 [av_heading tag='h1' padding='10' heading='SERVER MAINTENANCE' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
-[/av_one_full][av_one_half first min_height='av-equal-height-column' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='30px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_full][av_one_half first min_height='av-equal-height-column' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='40px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-442150-1-1030x686.jpeg' attachment='445' attachment_size='large' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+We at <strong>NG</strong> understand the necessity of keeping all your servers up and running with maximum performance.
+
+Without a second thought servers are the foundation of every network. Server maintenance involves the process of keeping a server updated and running so that a computer network can operate smoothly. Server maintenance is usually a task of a network administrator and it is vital to the performance of the network. If server maintenance is not conducted on a computer network, regardless of whether the network is small or large, usually will not run as well as expected.
+
+<strong>NG</strong> has designed its server maintenance services to keep your servers up<strong> 24x7</strong> with expected performance.
+[/av_textblock]
+
+[/av_one_half][av_one_half min_height='av-equal-height-column' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='30px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_icon_box position='top' icon_style='' boxed='' icon='ue841' font='entypo-fontello' title='We are specialized in providing following services:' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='' custom_bg='' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <ul class="bullet1" style="text-align: left;">
@@ -39,17 +51,5 @@ post_date: 2017-07-31 14:50:27
  	<li>Controling Desktop appearance</li>
 </ul>
 [/av_icon_box]
-
-[/av_one_half][av_one_half min_height='av-equal-height-column' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='40px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-442150-1-1030x686.jpeg' attachment='445' attachment_size='large' align='center' styling='' hover='av-hover-grow' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
-
-[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-We at <strong>NG</strong> understand the necessity of keeping all your servers up and running with maximum performance.
-
-Without a second thought servers are the foundation of every network. Server maintenance involves the process of keeping a server updated and running so that a computer network can operate smoothly. Server maintenance is usually a task of a network administrator and it is vital to the performance of the network. If server maintenance is not conducted on a computer network, regardless of whether the network is small or large, usually will not run as well as expected.
-
-<strong>NG</strong> has designed its server maintenance services to keep your servers up<strong> 24x7</strong> with expected performance.
-[/av_textblock]
 
 [/av_one_half][/av_section]
