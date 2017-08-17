@@ -98,7 +98,7 @@ With the help of a dedicated team and fully qualified professionals and designer
 <h2>KEEPING OUR CLIENTS HAPPY</h2>
 [/av_textblock]
 
-[av_textblock size='' font_color='custom' color='#000000' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_textblock size='18' font_color='custom' color='#000000' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <strong>Keeping our clients and potential customers happy is the most important aspect of business.</strong>
 
 <strong>Reasons for our Happy Clients :-</strong>
@@ -111,6 +111,8 @@ With the help of a dedicated team and fully qualified professionals and designer
 [av_iconlist_item title='We ensure that we offer the services what you need.' link='' linktarget='' linkelement='' icon='ue812' font='entypo-fontello'][/av_iconlist_item]
 [av_iconlist_item title='We listen to our client.' link='' linktarget='' linkelement='' icon='ue82b' font='entypo-fontello'][/av_iconlist_item]
 [/av_iconlist]
+
+[av_hr class='invisible' height='100' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='rgb(241, 241, 241)']
 
 [/av_two_fifth][av_three_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
@@ -137,7 +139,6 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/teamwork-1400x630.jpg' attachment='302' attachment_size='featured_large' attach='scroll' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_three_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_three_fifth][av_two_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -162,4 +163,5 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 </ul>
 [/av_textblock]
 
-[/av_two_fifth][/av_section]
+[/av_two_fifth]
+[/av_section]
