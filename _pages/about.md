@@ -16,6 +16,7 @@ post_date: 2017-07-12 04:15:29
 [/av_fullscreen]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
+
 [av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='5px,5px,0px,5px' border='' border_color='' radius='5px,5px,0px,0px' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
 
 [av_heading tag='h1' padding='0' heading='About Next Gen IT Hub' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ab0068' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
@@ -34,10 +35,11 @@ With the help of a dedicated team and fully qualified professionals and designer
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-288477.jpeg' attachment='507' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[/av_one_half][av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
-[/av_section]
+[/av_one_half][av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
-[av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/portfolio-1500x630.jpg' attachment='85' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_button label='Contact Us' link='manually,http://nextgenithub.com/contact/' link_target='' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
+
+[/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/portfolio-1500x630.jpg' attachment='85' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
@@ -88,6 +90,7 @@ With the help of a dedicated team and fully qualified professionals and designer
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h2 style="text-align: center;">We Just Keep Getting Better</h2>
 [/av_textblock]
@@ -132,10 +135,7 @@ Queries resolved
 New Clients
 [/av_animated_numbers]
 
-[/av_one_fourth]
-[/av_section]
-
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-1500x630.jpg' attachment='262' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_one_fourth][/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-1500x630.jpg' attachment='262' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_one_third first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
 
 [av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='OUR VISION' link='' linktarget='' linkelement='' font_color='custom' custom_title='' custom_content='' color='custom' custom_bg='#ab0068' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
