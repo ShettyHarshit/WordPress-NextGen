@@ -87,9 +87,11 @@ We provide various kind of computer services right from a simple non-comprehensi
 
 [av_heading tag='h3' padding='10' heading='Thin Client' color='custom-color-heading' style='' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
-[/av_one_fourth][av_button label='Call Us On: 022-40106817' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='yes' icon='ue854' font='entypo-fontello' color='custom' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
+[/av_one_fourth][av_one_full first min_height='' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='60px,0px,0px,0px' border='' border_color='#745f7e' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[/av_section][av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_button label='Call Us On: 022-40106817' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='yes' icon='ue854' font='entypo-fontello' color='custom' custom_bg='#719430' custom_font='#ffffff' admin_preview_bg='']
+
+[/av_one_full][/av_section][av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <span class="txt5">By providing the above computer services we can help you to:</span>
 <ul class="bullet2">
  	<li><b>Computer Maintenance Services (AMC): </b>Better maintain your computers and network. Restrict use of unnecessary internet surfing, thus saving cost of internet usage.</li>
