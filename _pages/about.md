@@ -10,7 +10,6 @@ post_date: 2017-07-12 04:15:29
 ---
 [av_slideshow_full size='featured' min_height='0px' stretch='' animation='slide' autoplay='false' interval='5' control_layout='av-control-default' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll']
 [av_slide_full slide_type='image' id='519' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='About Us' custom_title_size='' custom_content_size='' caption_pos='caption_bottom caption_bottom_framed caption_framed' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_opacity='0.5' overlay_color='#a5b8d1' overlay_pattern='' overlay_custom_pattern='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_slide_full]
-
 [/av_slideshow_full]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
@@ -38,6 +37,7 @@ With the help of a dedicated team and fully qualified professionals and designer
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/bg-slider1-l2-1500x630.jpg' attachment='262' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_one_third first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
 
 [av_icon_box position='top' icon_style='' boxed='' icon='1' font='entypo-fontello' title='OUR VISION' link='' linktarget='' linkelement='' font_color='custom' custom_title='' custom_content='' color='custom' custom_bg='#719430' custom_font='' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
@@ -56,10 +56,7 @@ Our goal is to improve your business’s performance and provide training for a 
 Running a business is not easy. With Expert Solution, you will learn solutions to common  it management challenges.
 [/av_icon_box]
 
-[/av_one_third]
-[/av_section]
-
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/keph.jpg' attachment='481' attachment_size='full' attach='scroll' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_one_third][/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/keph.jpg' attachment='481' attachment_size='full' attach='scroll' position='top left' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_two_fifth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='custom' color='#000000' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
@@ -120,6 +117,7 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/portfolio-1500x630.jpg' attachment='85' attachment_size='featured_large' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_textblock size='38' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="av-special-heading-tag " style="text-align: center;">WE PROVIDE <strong>HIGH QUALITY</strong> <strong>SERVICES</strong> THAT ARE USED AND LOVED BY THOUSANDS OF CUSTOMERS</p>
 [/av_textblock]
@@ -128,48 +126,45 @@ Running a business is not easy. With Expert Solution, you will learn solutions t
 
 [av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue80a' font='entypo-fontello' style='border' caption='PC &amp; Laptop Maintenance' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue80a' font='entypo-fontello' style='border' caption='PC &amp; Laptop Maintenance' link='manually,http://nextgenithub.com/services/computer-services-repairs/' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue868' font='entypo-fontello' style='border' caption='Anti-virus, Anti-spam &amp; Anti Spyware' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue868' font='entypo-fontello' style='border' caption='Anti-virus, Anti-spam &amp; Anti Spyware' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue82f' font='entypo-fontello' style='border' caption='Networking' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue82f' font='entypo-fontello' style='border' caption='Networking' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue838' font='entypo-fontello' style='border' caption='Email and Printer Support' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue838' font='entypo-fontello' style='border' caption='Email and Printer Support' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue824' font='entypo-fontello' style='border' caption='Firewall, VPN &amp; UTM' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue824' font='entypo-fontello' style='border' caption='Firewall, VPN &amp; UTM' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue83a' font='entypo-fontello' style='border' caption='Peripherals' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue83a' font='entypo-fontello' style='border' caption='Peripherals' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue855' font='entypo-fontello' style='border' caption='PC Tuneup and more' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue855' font='entypo-fontello' style='border' caption='PC Tuneup and more' link='manually,http://nextgenithub.com/services/computer-services-repairs/' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue814' font='entypo-fontello' style='border' caption='Anti-virus, Anti-spam &amp; Anti Spyware' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue814' font='entypo-fontello' style='border' caption='Anti-virus, Anti-spam &amp; Anti Spyware' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue8ab' font='entypo-fontello' style='border' caption='All in One Desktops' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue8ab' font='entypo-fontello' style='border' caption='All in One Desktops' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue856' font='entypo-fontello' style='border' caption='Server Maintenance' link='manually,http://' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue856' font='entypo-fontello' style='border' caption='Server Maintenance' link='manually,http://nextgenithub.com/services/server-maintenance/' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
-[/av_one_fifth]
-[/av_section]
-
-[av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_one_fifth][/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h2 style="text-align: center;">We Just Keep Getting Better</h2>
 [/av_textblock]
