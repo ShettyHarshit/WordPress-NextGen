@@ -53,9 +53,11 @@ cPanel, an intuitive and powerful control panel, is available on all plans which
 [/av_cell_one_fifth]
 [/av_layout_row]
 
+[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-1-1.jpg' attachment='401' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_heading tag='h3' padding='0' heading='FAQs' color='' style='blockquote classic-quote' custom_font='#ffffff' size='40' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
+[av_heading heading='FAQs' tag='h3' style='blockquote classic-quote' size='40' subheading_active='' subheading_size='15' padding='0' color='' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
 [av_toggle_container initial='0' mode='toggle' sort='']
 [av_toggle title='Q. What is Shared Web hosting?' tags='']
@@ -90,4 +92,4 @@ Our Support team is always at hand to assist you.
 [/av_toggle]
 [/av_toggle_container]
 
-[/av_one_full]
+[/av_one_full][/av_section]
