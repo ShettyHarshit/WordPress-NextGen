@@ -4,7 +4,8 @@ post_title: 'Domain &#038; Hosting'
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://nextgenithub.com/domain-hosting/
+permalink: >
+  http://nextgenithub.com/services/domain-hosting/
 published: true
 post_date: 2018-10-01 18:25:01
 ---
