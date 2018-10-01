@@ -12,7 +12,7 @@ post_date: 2018-10-01 18:20:42
 
 [av_one_full first min_height='' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='30px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_heading heading='G Suite' tag='h1' style='' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading heading='G Suite' tag='h1' style='' size='' subheading_active='' subheading_size='15' padding='0' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
 [/av_one_full][av_one_full first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
@@ -20,9 +20,9 @@ post_date: 2018-10-01 18:20:42
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-01-at-11.31.12-PM.png' attachment='576' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[/av_one_full][av_one_full first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_full][av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_heading tag='h3' padding='0' heading='FAQs' color='' style='blockquote classic-quote' custom_font='' size='40' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
+[av_heading heading='FAQs' tag='h3' style='blockquote classic-quote' size='40' subheading_active='' subheading_size='15' padding='0' color='' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
 [av_toggle_container initial='0' mode='toggle' sort='']
 [av_toggle title='Q. Can I use my existing domain with G Suite?' tags='']
