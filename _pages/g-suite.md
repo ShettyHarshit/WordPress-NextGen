@@ -4,7 +4,8 @@ post_title: G Suite
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://nextgenithub.com/g-suite/
+permalink: >
+  http://nextgenithub.com/services/g-suite/
 published: true
 post_date: 2018-10-01 18:20:42
 ---
