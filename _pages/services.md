@@ -16,7 +16,6 @@ We provide various kind of computer services right from a simple non-comprehensi
 [/av_fullscreen]
 
 [av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-48606.jpeg' attachment='363' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_heading tag='h3' padding='20' heading='Our Services include' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='40' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
@@ -139,18 +138,22 @@ Maintenance
 
 [av_button label='Call Us On: 022-40106817' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='yes' icon='ue854' font='entypo-fontello' color='custom' custom_bg='#719430' custom_font='#ffffff' admin_preview_bg='']
 
-[/av_one_full][/av_section][av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[/av_one_full]
+[/av_section]
+
+[av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <span class="txt5">By providing the above computer services we can help you to:</span>
 <ul class="bullet2">
  	<li><b>Computer Maintenance Services (AMC): </b>Better maintain your computers and network. Restrict use of unnecessary internet surfing, thus saving cost of internet usage.</li>
- 	<li><b>Server Setup &amp; Maintenance: </b>Implementing data access policies for users. No users can view/modify/delete any files for which they do not have rights to access.</li>
  	<li><b>Backup Solutions: </b>Preserve your valuable data and restore it in case of system crashes.</li>
+ 	<li><b>Server Setup &amp; Maintenance: </b>Implementing data access policies for users. No users can view/modify/delete any files for which they do not have rights to access.</li>
  	<li><b>Anti-Virus &amp; Security Solutions: </b>Protect your systems from dangerous spywares which can steal your password or Credit card details without your knowledge.</li>
- 	<li><b>Email Management: </b>Give personalized emails to all employees and control which employee is communicating with which client and get updated of every email sent or received by them.</li>
- 	<li><b>Network Maintenance: </b>Increase the secured network accessibility of laptop users.</li>
- 	<li><b>Server Setup &amp; Maintenance: </b>Protect accidental deletion of files and folders.  Prevent Local Storing of Files. Users can use any PC. They will see their own desktop and files on any PC. Restrict the Access of USB based on individual rights.</li>
- 	<li><strong>Leased Lines</strong>: Access your office PC from anywhere in the world.</li>
- 	<li><b>Asset Management: </b>Data Leak Prevention. Restrict access to software’s which are not required for work i.e Games, Chat, MP3 Players etc. Control number of prints taken by individual users. Manage your IT infrastructure Details. Monitor what your employees are working: You can view the individual PCs just by sitting on your desk and monitor what each employees is doing on their computer.</li>
  	<li><strong>Thin Client Environment:</strong> PCs can be used without installing any software’s on it. In this technology the PCs will not have any Hard Disk in it.</li>
+ 	<li><strong>Asset Management: </strong>It helps business owners to effectively monitor, manage and control their IT infrastructure. Data Leak Prevention. Restrict access to software’s which are not required for work i.e Games, Chat, MP3 Players etc. Control number of prints taken by individual users. Manage your IT infrastructure Details. Monitor what your employees are working: You can view the individual PCs just by sitting on your desk and monitor what each employees is doing on their computer.</li>
+ 	<li><strong>CCTV Surveillance Cameras: </strong>We provide common sense solutions that allow our clients to focus on their business or residence rather than security related problems.</li>
+ 	<li><strong>Access control systems (ACS): </strong>It can be integrated into a comprehensive security plan that involves aspects of physical layout like heating and cooling systems, electronic locks, closed circuit television, and security surveillance.</li>
+ 	<li><b>Server Setup &amp; Maintenance: </b>Protect accidental deletion of files and folders.  Prevent Local Storing of Files. Users can use any PC. They will see their own desktop and files on any PC. Restrict the Access of USB based on individual rights.</li>
+ 	<li><b>Network Maintenance: </b>Increase the secured network accessibility of laptop users.</li>
+ 	<li><b>Email Management: </b>Give personalized emails to all employees and control which employee is communicating with which client and get updated of every email sent or received by them.</li>
 </ul>
 [/av_textblock]
