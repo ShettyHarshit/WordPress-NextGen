@@ -76,7 +76,6 @@ Google gives higher rankings to websites secured with SSL certificates. Which me
 [/av_layout_row]
 
 [av_layout_row border='' min_height_percent='' min_height='0' color='main_color' mobile='av-flex-cells' id='' av_element_hidden_in_editor='0' mobile_breaking='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-
 [av_cell_one_fourth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
 [/av_cell_one_fourth][av_cell_one_fourth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
@@ -97,4 +96,30 @@ All our SSL certificates come with a 30-day Money Back Guarantee. No questions a
 
 [/av_cell_one_fourth][av_cell_one_fourth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
-[/av_cell_one_fourth][/av_layout_row]
+[/av_cell_one_fourth]
+[/av_layout_row]
+
+[av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_heading tag='h3' padding='0' heading='FAQs' color='' style='blockquote classic-quote' custom_font='#ffffff' size='40' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
+
+[av_toggle_container initial='0' mode='toggle' sort='']
+[av_toggle title='Q. What is an SSL Certificate?' tags='']
+An SSL Certificate is a digital certificate issued for a domain by a central authority called the Certificate Authority. To be issued an SSL Certificate, you must purchase an SSL Certificate and then go through a verification process conducted by the Certificate Authority.
+[/av_toggle]
+[av_toggle title='Q. Why should I buy an SSL Certificate?' tags='']
+An SSL Certificate does 2 things: a. Encrypt the information sent from your user's browser to your website b. Authenticate your website's identity.
+By doing these 2 things, an SSL Certificate protects your customers and in turn increases their trust in your online business. This is especially important if your website requires users to login using passwords or enter sensitive information such as credit card details.
+[/av_toggle]
+[av_toggle title='Q. Do SSL Certificates work in all browsers?' tags='']
+SSL Certificates are compatible with all major browsers.
+[/av_toggle]
+[av_toggle title='Q. Can I upgrade my SSL Certificates?' tags='']
+Unfortunately, we don't support upgrades/downgrades at the moment. If required you can purchase a new certificate and install it on the same web server as the old certificate.
+[/av_toggle]
+[av_toggle title='Q. Do I need technical expertise to set up an SSL Certificate on my website?' tags='']
+While it isn't difficult to install an SSL Certificate, it does involve following a series of steps. You can find more information in our KnowledgeBase.
+[/av_toggle]
+[/av_toggle_container]
+
+[/av_one_full]
