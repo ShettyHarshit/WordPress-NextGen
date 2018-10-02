@@ -37,12 +37,12 @@ We endeavour to answer all queries within 1 – 2 business days.
 
 [/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_icon_box position='left' icon_style='' boxed='' icon='ue845' font='entypo-fontello' title='PHYSICAL ADDRESS' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#719430' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Unit No. 108, 1st Floor,
-Behind Namah Hospital
-Opp. Shankar lane, Kandivali (West),
+[av_icon_box position='left' icon_style='' boxed='' icon='ue845' font='entypo-fontello' title='Head Office' link='' linktarget='' linkelement='' font_color='' custom_title='' custom_content='' color='custom' custom_bg='' custom_font='#719430' custom_border='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+108, 1st Floor, Naman Plaza
+Behind Namaha Hospital,
+S.V.Road, Kandivali (West),
 Mumbai - 400067
-Maharashtra,India
+Maharashtra, India
 [/av_icon_box]
 
 [av_button label='Register' link='manually,http://nextgenithub.com/register/' link_target='' size='x-large' position='center' icon_select='yes' icon='ue80b' font='entypo-fontello' color='theme-color' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
