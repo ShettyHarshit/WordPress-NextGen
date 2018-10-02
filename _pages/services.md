@@ -25,7 +25,7 @@ We provide various kind of computer services right from a simple non-comprehensi
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/tv-2223047_640-300x300.png' attachment='370' attachment_size='medium' align='center' styling='circle' hover='' link='manually,http://nextgenithub.com/services/computer-services-repairs/' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Computer Service &amp; Repairs' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='25' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='Computer Service &amp; Repairs' color='custom-color-heading' style='blockquote classic-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='25' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 (AMC)
 [/av_heading]
 
@@ -57,7 +57,7 @@ We provide various kind of computer services right from a simple non-comprehensi
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/camera-1085705_1280-300x300.png' attachment='537' attachment_size='medium' align='center' styling='circle' hover='' link='manually,http://nextgenithub.com/services/backup-disaster-recovery/' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='CCTV Surveillance Cameras' tag='h2' style='blockquote classic-quote' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h2' padding='10' heading='CCTV Surveillance Cameras' color='custom-color-heading' style='blockquote classic-quote' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
 
@@ -75,7 +75,7 @@ We provide various kind of computer services right from a simple non-comprehensi
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/edit-1103599_640-300x300.png' attachment='374' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Network ' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='25' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='rgb(34, 34, 34)']
+[av_heading tag='h2' padding='10' heading='Network ' color='custom-color-heading' style='blockquote classic-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='25' custom_class='' admin_preview_bg='rgb(34, 34, 34)' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 Implementation &amp; Maintenance
 [/av_heading]
 
@@ -89,7 +89,7 @@ Implementation &amp; Maintenance
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/castle-1083570_640-300x300.png' attachment='380' attachment_size='medium' align='center' styling='circle' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='VPN, Firewall &amp; UTM for Server Security' tag='h3' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='25' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='rgb(34, 34, 34)']
+[av_heading heading='VPN, Firewall &amp; UTM for Server Security' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='25' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='rgb(34, 34, 34)']
 Implementation
 [/av_heading]
 
@@ -97,7 +97,7 @@ Implementation
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/at-sign-1083508_640-300x300.png' attachment='381' attachment_size='medium' align='center' styling='circle' hover='' link='manually,http://nextgenithub.com/services/email-management/' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Email Server Setup' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='25' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='Email Server Setup' color='custom-color-heading' style='blockquote classic-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='25' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 Maintenance
 [/av_heading]
 
