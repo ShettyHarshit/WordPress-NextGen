@@ -10,82 +10,70 @@ published: true
 post_date: 2018-10-02 13:45:37
 ---
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-1-1.jpg' attachment='401' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_one_full first min_height='' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='30px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_heading tag='h1' padding='10' heading='Business Email' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [/av_one_full][av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Business-email.png' attachment='627' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+[/av_section]
 
-[/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
+[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
 [av_heading heading='What’s amazing about Business Email' tag='h2' style='blockquote classic-quote' size='' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 [/av_section]
 
 [av_layout_row border='' min_height_percent='' min_height='0' color='main_color' mobile='av-flex-cells' id='' av_element_hidden_in_editor='0' mobile_breaking='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-[av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
+[av_cell_one_third vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Icon-1-80x80.png' attachment='631' attachment_size='thumbnail' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Intuitive and Responsive Design' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='Intuitive and Responsive Design' color='' style='blockquote classic-quote' custom_font='' size='' subheading_active='subheading_below' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 Beautifully designed and delivered with the power of OpenXchange. You can also access your email on your smartphone or tablet.
 [/av_heading]
 
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Icon-2-80x80.png' attachment='632' attachment_size='thumbnail' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Inbuilt Virus Protection' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='Inbuilt Virus Protection' color='' style='blockquote classic-quote' custom_font='' size='' subheading_active='subheading_below' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 Our advanced anti-virus technology secured your inbox and ensures that you are protected from downloading malware and viruses.
 [/av_heading]
 
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Icon-3-80x80.png' attachment='633' attachment_size='thumbnail' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='5GB Storage Plus Backup' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='5GB Storage Plus Backup' color='' style='blockquote classic-quote' custom_font='' size='' subheading_active='subheading_below' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 In addition to 5GB mail storage, your emails are backed up in our state-of-the-art infrastructure so that you never lose important mails.
 [/av_heading]
 
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
+[/av_cell_one_third][/av_layout_row][av_layout_row border='' min_height_percent='' min_height='0' color='main_color' mobile='av-flex-cells' id='' av_element_hidden_in_editor='0' mobile_breaking='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
-[/av_cell_one_fifth]
-[/av_layout_row]
-
-[av_layout_row border='' min_height_percent='' min_height='0' color='main_color' mobile='av-flex-cells' id='' av_element_hidden_in_editor='0' mobile_breaking='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-[av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
-
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
+[av_cell_one_third vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Icon-4-80x80.png' attachment='634' attachment_size='thumbnail' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='100% Uptime and Security' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='100% Uptime and Security' color='' style='blockquote classic-quote' custom_font='' size='' subheading_active='subheading_below' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 Our high-end NetApp mail storage guarantees zero data loss and redundancy, along with 100% network uptime.
 [/av_heading]
 
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Icon-5-80x80.png' attachment='635' attachment_size='thumbnail' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Calendars, Contacts and Tasks' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='Calendars, Contacts and Tasks' color='' style='blockquote classic-quote' custom_font='' size='' subheading_active='subheading_below' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 Manage contacts, create to-do lists and keep track of all your meetings in one place with OpenXchange's productivity tools.
 [/av_heading]
 
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2018/10/Icon-6-80x80.png' attachment='636' attachment_size='thumbnail' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
-[av_heading heading='Social Media in your Inbox' tag='h2' style='blockquote classic-quote' size='' subheading_active='subheading_below' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_heading tag='h2' padding='10' heading='Social Media in your Inbox' color='' style='blockquote classic-quote' custom_font='' size='' subheading_active='subheading_below' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='']
 Now view your Twitter, Google+ feeds in your Inbox itself. OpenXchange brings all your social media under one roof.
 [/av_heading]
 
-[/av_cell_one_fifth][av_cell_one_fifth vertical_align='top' padding='30px' background_color='' src='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat' mobile_display='']
-
-[/av_cell_one_fifth]
-[/av_layout_row]
-
-[av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_cell_one_third][/av_layout_row][av_one_full first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='#ffffff' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 [av_heading tag='h3' padding='0' heading='FAQs' color='' style='blockquote classic-quote' custom_font='#ffffff' size='40' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_toggle_container initial='0' mode='toggle' sort='']
