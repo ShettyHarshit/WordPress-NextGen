@@ -82,7 +82,7 @@ Our product range consists right from a low cost computers to an expensive high 
 
 [av_font_icon icon='ue824' font='entypo-fontello' style='border' caption='Firewall, VPN &amp; UTM' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
-[/av_one_fifth][av_button label='READ MORE' link='manually,http://nextgenithub.com/services/' link_target='' size='large' position='center' icon_select='yes' icon_hover='aviaTBicon_hover' icon='ue811' font='entypo-fontello' color='theme-color' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
+[/av_one_fifth][av_button label='READ MORE' link='manually,http://nextgenithub.com/services/' link_target='' size='x-large' position='center' icon_select='yes' icon_hover='aviaTBicon_hover' icon='ue811' font='entypo-fontello' color='theme-color' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
 [/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#0a0a0a' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#ffffff' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_textblock size='40' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
