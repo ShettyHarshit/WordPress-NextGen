@@ -31,18 +31,19 @@ Our basic computer service package starts from <b>Rs. 65/- per month</b>.
 <ul class="bullet_black">
  	<li style="text-align: left;">Virus Removal</li>
  	<li style="text-align: left;">Anti-Spam and Anti-Malware protection</li>
- 	<li style="text-align: left;">Laptop Repairss</li>
+ 	<li style="text-align: left;">Laptop Repairs</li>
  	<li style="text-align: left;">Data Backup and Disaster Recovery</li>
  	<li style="text-align: left;">Data Recovery</li>
- 	<li style="text-align: left;">Installation and troubleshooting of various application softwares</li>
+ 	<li style="text-align: left;">Installation and troubleshooting of various application &amp; softwares</li>
  	<li style="text-align: left;">Firewall Installation</li>
  	<li style="text-align: left;">Email Configuration and troubleshooting</li>
  	<li style="text-align: left;">Internet Connection Issues</li>
  	<li style="text-align: left;">Internet Security Issues</li>
- 	<li style="text-align: left;">Windows XP installation and troubleshooting</li>
- 	<li style="text-align: left;">Windows Vista installation and troubleshooting</li>
- 	<li style="text-align: left;">Windows 7 installation and troubleshooting</li>
+ 	<li style="text-align: left;">Windows OS installation and troubleshooting</li>
  	<li style="text-align: left;">Wireless installation and troubleshooting</li>
+ 	<li style="text-align: left;">Motherboard repair</li>
+ 	<li style="text-align: left;">Replacement of LCD, LED, HD LED Screen, keyboard, panel, usb port, speakers, and touchpad</li>
+ 	<li style="text-align: left;">Desktop, Laptop, Apple Mac hardware repair</li>
 </ul>
 [/av_icon_box]
 
