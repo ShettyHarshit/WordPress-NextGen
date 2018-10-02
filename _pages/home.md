@@ -17,7 +17,7 @@ post_date: 2017-07-15 16:07:45
 [av_section min_height='50' min_height_px='500px' padding='default' shadow='shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#ffffff' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
 [av_textblock size='20' font_color='custom' color='#3d3d3d' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h1 align="center">WHY NEXT GEN IT HUB?</h1>
+<h1 align="center">WHY NEXTGEN IT HUB?</h1>
 [/av_textblock]
 
 [av_one_half first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in' mobile_breaking='' mobile_display='']
@@ -62,28 +62,27 @@ Our product range consists right from a low cost computers to an expensive high 
 
 [av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue80a' font='entypo-fontello' style='border' caption='PC &amp; Laptop Maintenance' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue80f' font='entypo-fontello' style='border' caption='Security Solutions- CCTV &amp; Door Access Control' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue868' font='entypo-fontello' style='border' caption='Anti-virus, Anti-spam &amp; Anti Spyware' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue80a' font='entypo-fontello' style='border' caption='PC &amp; Laptop Maintenance/ AMC' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue82f' font='entypo-fontello' style='border' caption='Networking' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue86c' font='entypo-fontello' style='border' caption='Domain &amp; Hosting' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_font_icon icon='ue838' font='entypo-fontello' style='border' caption='Email and Printer Support' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
+[av_font_icon icon='ue8de' font='entypo-fontello' style='border' caption='Server &amp; Network Solution' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
 [/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_font_icon icon='ue824' font='entypo-fontello' style='border' caption='Firewall, VPN &amp; UTM' link='' linktarget='' size='40px' position='center' color='#ffffff' admin_preview_bg=''][/av_font_icon]
 
-[/av_one_fifth][av_button label='READ MORE' link='manually,http://nextgenithub.com/about/' link_target='' size='medium' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='theme-color' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
+[/av_one_fifth][av_button label='READ MORE' link='manually,http://nextgenithub.com/services/' link_target='' size='medium' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='theme-color' custom_bg='#ab0068' custom_font='#ffffff' admin_preview_bg='']
 
 [/av_section][av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#0a0a0a' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#ffffff' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_textblock size='40' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;">CORE SERVICES</p>
 [/av_textblock]
@@ -114,4 +113,5 @@ The right operating model paired with the right capabilities has a material impa
 The right operating model paired with the right capabilities has a material impact on your bottom line. Bringing industry insights and human capital knowledge together, LPS helps you to determine the best fit structure and the employee skill requirements to drive your business objectives.
 [/av_icon_box]
 
-[/av_one_half][/av_section]
+[/av_one_half]
+[/av_section]
