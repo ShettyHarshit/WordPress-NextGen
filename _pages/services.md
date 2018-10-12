@@ -16,6 +16,7 @@ We provide various kind of computer services right from a simple non-comprehensi
 [/av_fullscreen]
 
 [av_section min_height='' min_height_px='500px' padding='large' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='http://nextgenithub.com/wp-content/uploads/2017/07/pexels-photo-48606.jpeg' attachment='363' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_heading tag='h3' padding='20' heading='Our Services include' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='40' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
@@ -118,9 +119,9 @@ Maintenance
 
 [av_heading tag='h2' padding='10' heading='Domain &amp; Hosting' color='custom-color-heading' style='blockquote classic-quote' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
-[/av_one_fifth][av_one_third first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
+[/av_one_fifth][av_one_fifth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
 
-[/av_one_third][av_one_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
+[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
 
 [av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/SSL-300x300.png' attachment='702' attachment_size='medium' align='center' styling='circle' hover='' link='manually,http://nextgenithub.com/services/ssl-certificates/' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
@@ -132,16 +133,19 @@ Maintenance
 
 [av_heading tag='h2' padding='10' heading='Shared Hosting' color='custom-color-heading' style='blockquote classic-quote' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
-[/av_one_fifth][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
+[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
 
-[/av_one_fourth][av_one_full first min_height='' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='60px,0px,0px,0px' border='' border_color='#745f7e' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_image src='http://nextgenithub.com/wp-content/uploads/2017/07/500-X-500-300x300.png' attachment='769' attachment_size='medium' align='center' styling='circle' hover='' link='manually,https://nextgenithub.com/services/vembu-backup/' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+
+[av_heading heading='Vembu Backup' tag='h2' style='blockquote classic-quote' size='' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='pop-up' mobile_breaking='' mobile_display='']
+
+[/av_one_fifth][av_one_full first min_height='' vertical_alignment='av-align-top' space='no_margin' margin='0px' margin_sync='true' padding='60px,0px,0px,0px' border='' border_color='#745f7e' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_button label='Call Us On: 022-40106817' link='manually,http://nextgenithub.com/contact/' link_target='' size='large' position='center' icon_select='yes' icon='ue854' font='entypo-fontello' color='custom' custom_bg='#719430' custom_font='#ffffff' admin_preview_bg='']
 
-[/av_one_full]
-[/av_section]
-
-[av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[/av_one_full][/av_section][av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <span class="txt5">By providing the above computer services we can help you to:</span>
 <ul class="bullet2">
  	<li><b>Computer Maintenance Services (AMC): </b>Better maintain your computers and network. Restrict use of unnecessary internet surfing, thus saving cost of internet usage.</li>
